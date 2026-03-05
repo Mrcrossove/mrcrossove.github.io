@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["YOUR_TEAM_ID.com.banhe.app"],
+        "appID": ["YOUR_TEAM_ID.com.banhe.app"],
         "paths": ["/HalfAI/app/*", "/wx/*"]
       }
     ]
